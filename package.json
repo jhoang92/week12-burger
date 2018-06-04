@@ -1,0 +1,25 @@
+{
+  "name": "week12-burger",
+  "version": "1.0.0",
+  "description": "This is an app based on handlebars, mySQL, express  where you can create and eat burgers. Burgers are logged in the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoang92/week12-burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhoang92/week12-burger/issues"
+  },
+  "homepage": "https://github.com/jhoang92/week12-burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
